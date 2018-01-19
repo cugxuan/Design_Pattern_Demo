@@ -1,0 +1,1 @@
+[1-3Java设计模式之工厂模式(三种)](http://geek.csdn.net/news/detail/109419)
