@@ -80,5 +80,12 @@
 14.模板模式14_Template
 15.观察者模式15_Observer
 16.迭代子模式16_Iterator
-17.
+17.责任链模式17_Chain_of_Responsibility
+18.备忘录模式18_Memento
+19.命令模式19_Command
+20.状态模式20_State
+21.访问者模式21_Visitor
+22.解释器模式22_Interpreter
+23.中介者模式23_Mediator  //调停者
+24.策略模式24_Strategy
 ```
