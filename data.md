@@ -22,6 +22,6 @@
 - [19命令模式](http://www.cnblogs.com/java-my-life/archive/2012/06/01/2526972.html)
 - [20状态模式](http://www.cnblogs.com/java-my-life/archive/2012/06/08/2538146.html)
 - [21访问者模式](http://www.cnblogs.com/java-my-life/archive/2012/06/14/2545381.html)
-- [22解释器模式]()
+- [22解释器模式](http://www.cnblogs.com/java-my-life/archive/2012/06/19/2552617.html)
 - [23中介者模式](http://www.cnblogs.com/java-my-life/archive/2012/06/20/2554024.html)
 - [24策略模式](http://www.cnblogs.com/java-my-life/archive/2012/05/10/2491891.html)

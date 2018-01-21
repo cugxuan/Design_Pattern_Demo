@@ -1,6 +1,9 @@
 # Design_Pattern_Demo
 23种经典的设计模式的demo，使用java语言实现
 
+[github地址](https://github.com/cugxuan/Design_Pattern_Demo)
+[MyBlog](http://cugxuan.coding.me/)
+
 # 创建型模式(5种)
 用来创建对象的模式，抽象了实例化过程 
 
